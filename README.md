@@ -1,14 +1,14 @@
-# 瀚博半导体 Vastai AI Skills
+# Vastai AI Skills
 
 > ⚠️ **非官方项目 / Unofficial Project**
-> 本仓库为社区整理，与瀚博半导体官方无关。
+> 本仓库为社区整理，与 Vastai 官方无关。
 > This repository is community-maintained and **not affiliated with Vastai Technology Co., Ltd.**
 
 ---
 
 ## 📖 简介
 
-本仓库收录了一组专为 AI 软件开发工具（如 Cursor、Windsurf、GitHub Copilot、Cline 等）设计的 **Agent Skills**，覆盖瀚博半导体（Vastai）AI 加速卡的完整开发工具链，包括模型转换、推理部署、视频编解码、硬件监控等核心场景。
+本仓库收录了一组专为 AI 软件开发工具（如 Cursor、Windsurf、GitHub Copilot、Cline 等）设计的 **Agent Skills**，覆盖 Vastai AI 加速卡的完整开发工具链，包括模型转换、推理部署、视频编解码、硬件监控等核心场景。
 
 每个 Skill 包含：
 - ✅ 详细的 API 参考与使用说明（`SKILL.md`）
@@ -103,7 +103,7 @@ curl -o vastai-vaststreamx-python/SKILL.md \
 
 ## 📋 适用硬件
 
-- 瀚博半导体 SV100 系列 AI 加速卡
+- Vastai SV100 系列 AI 加速卡
 - 支持 VACC（Vastai AI Compute Cluster）架构
 
 ---
@@ -123,7 +123,7 @@ curl -o vastai-vaststreamx-python/SKILL.md \
 ## ⚠️ 免责声明
 
 - 本仓库为**非官方**社区项目，内容来源于公开文档整理
-- 瀚博半导体官方信息请访问 [www.vastai.com](https://www.vastai.com)
+- Vastai 官方信息请访问 [www.vastai.com](https://www.vastai.com)
 - SDK 版本以官方发布为准，本仓库内容可能存在滞后
 
 ---
